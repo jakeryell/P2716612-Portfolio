@@ -1,0 +1,43 @@
+
+body{margin: 0px;}
+/* the body margin is set to o so the header is the full length of screen*/
+
+header {
+  background-color: #778ba8;
+  padding: 15px;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+}
+/* the header holds the title of the website with the color being blue header.
+padding is spacing for the title so its even all around in the center. font size determins
+the size of the titel which below is the color of the title which is white*/
+
+img {
+  width: 30%;
+  height: 80%;
+  padding: 22px;
+
+
+}
+/* this img code is to determin how big each image will be as i want them even so using the
+css page it will make sure all images remain the same sixe and the padding is the space inbetween each
+image*/
+
+section {
+    width: 10%;
+    height:10%;
+    position: relative;
+    left: 43%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 15px;
+    border-style: groove;
+    text-align: center;
+
+}
+/* this section is for a border for praragraphs and i wanted them to all the same if there was more than one
+the width of the border and hight is 10% with the postioning to the left. the font is for the 
+paragraphs and the other fonts are used incase the user does not have the certain fonts
+used as a back up. color is black for border, padding of the border and the style of the 
+border is groove and the text align to center text.*/
